@@ -1,0 +1,30 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+    background-color:darkcyan;
+    flex-direction: column;
+}
+.poli{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:bisque;
+    font-size: 45px;
+}
+
+.choix{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100px;
+    width: 100%;
+}
+.oui{
+    font-size: 30px;
+}
+
+.non{
+    font-size: 30px;
+}
